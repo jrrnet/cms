@@ -1,4 +1,4 @@
-!JRWIKI(http://jrwiki.pe.hu/wp-content/uploads/2016/05/logo.png) (http://jrwiki.pe.hu)
+![JRWIKI](http://jrwiki.pe.hu/wp-content/uploads/2016/05/logo.png) (http://jrwiki.pe.hu)
 
 # CMS 
 - Significa Custom Management System ou Sistema de Gerenciamento de Conteúdo, então por isso nós temos o trabalho de deixar o ambiente do seu CMS o mais intuitivo e simples e ao mesmo tempo completo para suas necessidades.
